@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hugo Easlea, @HEaslea, currently a game dev student, studying as much as I can as often as I can
-- 👀 I’m interested in GameDev, Graphics Libraries and Game AI
+- 👀 I’m interested in GameDev, Game Engines and Game AI
 - 🌱 I’m currently learning all the above in C++ and some C#
 - 💞️ I’m looking to collaborate on all the above, games in general
 - 📫 How to reach me : hugoeaslea@hotmail.co.uk

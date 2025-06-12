@@ -1,3 +1,4 @@
+WORK PAUSED DUE TO EXAMS
 - 👋 Hi, I’m Hugo Easlea, @HEaslea, studying as much as I can as often as I can
 - 👀 I’m interested in Low-Level Programming, Optimizations, Game Engines
 - 🌱 I’m currently learning all the above in C++, Python and some C#
